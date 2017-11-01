@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SQL</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="name">Nombre Usuario</string>
+    <string name="email">Nombre Autor</string>
+    <string name="presta">Nombre Libro</string>
+    <string name="phone">Telefono</string>
+    <string name="create">Create</string>
+    <string name="update">Update</string>
+    <string name="find">Find</string>
+    <string name="delete">Delete</string>
+    <string name="read">Read</string>
+    <string name="id">ID</string>
+
+</resources>
